@@ -107,7 +107,9 @@ ul{
 .box i{
     margin-right: 10px;
 }
-
+.navbar .container img{
+    display: none;
+}
 @media (max-width: 768px){
     .header .container{
         flex-direction: column;
@@ -129,5 +131,9 @@ ul{
 @media (max-width: 480px){
     .navbar a{
         display: none;
+    }
+    .navbar .container img{
+        display: inline;
+        filter: invert(100%);
     }
 }
