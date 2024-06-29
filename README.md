@@ -11,9 +11,6 @@ This repository contains the source code for a responsive landing page created a
 ## Deployed Version
 -  You can view the deployed version of the project [Responsive landing page](https://venerable-cajeta-1f9404.netlify.app/).
 
-- HTML5
-- CSS3 (including Flexbox and Media Queries)
-
 ## Technologies Used
 
 - HTML5
